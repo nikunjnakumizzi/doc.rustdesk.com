@@ -8,7 +8,7 @@ When logging in to your account, turning on Two-Factor Authentication (2FA) veri
 Our web console currently supports two kinds of 2FA:
 
 1. Email verification
-2. TOTP. A third-party authentication app is required to generate the verification code, such as [Authy](https://authy.com), [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app/) and [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) authentication app.
+2. TOTP. A third-party authentication app is required to generate the verification code, such as [Ente Auth](https://ente.io/auth/), [Microsoft Authenticator](https://www.microsoft.com/en-us/security/mobile-authenticator-app/) and [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) authentication app.
 
 You first need to go to the account settings page.
 
